@@ -3,7 +3,7 @@
 
 - 🔭 I am currently working on [Head Breeze](https://headbreeze.netlify.app/), a modern note taking app
 
-- 🌱 My Tech Stack: **React JS, JavaScript, CSS, HTML**
+- 🌱 My Tech Stack: **React JS, JavaScript, CSS3, HTML5**
 
 - 👨‍💻 All of my projects are available at [https://vishnuvnair.netlify.app/](https://vishnuvnair.netlify.app/)
 
